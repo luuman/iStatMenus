@@ -1,0 +1,5 @@
+{
+  "name": "iStat Menus Clone",
+  "description": "A high-fidelity system monitoring dashboard inspired by iStat Menus, featuring real-time CPU, Memory, Disk, Network, and Sensor tracking with smooth animations.",
+  "requestFramePermissions": []
+}
